@@ -1,5 +1,5 @@
 Bla bla bla bla
-bla bla bla
-bla
 
 dalsi riadok task 5
+
+Multiuser GIT ako druhy clen teamu
