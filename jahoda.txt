@@ -3,4 +3,3 @@ Bla bla bla bla
 dalsi riadok task 5
 
 Multiuser GIT ako druhy clen teamu
->>>>>>> 0d908885df9eb5bf68acdcb7203ca87dc175b034
