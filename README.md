@@ -6,3 +6,4 @@ GIT training part of DevOps academy
 - riadok 3
 
 - riadok 5
+- riadok 6
