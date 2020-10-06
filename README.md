@@ -7,3 +7,4 @@ GIT training part of DevOps academy
 - riadok 4
 - riadok 5
 - riadok 6
+- nova branch
